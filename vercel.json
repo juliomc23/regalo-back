@@ -21,7 +21,7 @@
     ],
     "headers": [
     {
-      "source": "https://regalo-front.vercel.app/(.*)",
+      "source": "/(.*)",
       "headers": [
         {
           "key": "access-control-allow-origin",
